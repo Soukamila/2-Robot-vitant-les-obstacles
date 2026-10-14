@@ -1,5 +1,5 @@
 # 2-Robot-vitant-les-obstacles
-# Devoir n°2 : Robot évitant les obstacles
+
 
 ## Objectif
 
